@@ -1,4 +1,4 @@
-# Project Name: Nextcloud Cloud-based Storage Service & Load Testing with Locust
+# Nextcloud Cloud-based Storage Service & Load Testing with Locust
 
 ## Description
 This project sets up a Nextcloud instance using Docker and performs load testing using Locust. Nextcloud is a self-hosted file sharing and collaboration platform, and Locust is an open-source load testing tool.
@@ -36,5 +36,7 @@ This project sets up a Nextcloud instance using Docker and performs load testing
 - `locust/tasks.py`: Python script defining Locust test scenarios
 - `test-data/`: Directory containing test data for Locust
 
-
+## Authror
 Alessandro Della Siega
+
+University of Trieste, March 2024
